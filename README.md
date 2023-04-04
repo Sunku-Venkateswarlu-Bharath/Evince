@@ -1,4 +1,4 @@
-# Evince
+# EVINCE
 ## .preview
 https://user-images.githubusercontent.com/94451263/229699514-bd738b61-3c15-4405-a974-8a1f7c32a56e.mp4
 
